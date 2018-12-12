@@ -2,6 +2,7 @@
 The PracticeFractions Project
 
 Library modules used: fractions.Fraction and operator Third party module used: easygui File to be submitted: practiceFractions.py
+
 The goal of this project is a program to be used to practice fraction arithmetic. It must have a graphical user interface. Once the program is started, there is to be no use of the command prompt. To keep things simple, you will use the easygui module whose model is not event-driven. You should become familiar with this module first.
 
 Comment: when presenting a user with fewer than five choices, use a buttonbox rather than a choices window. I find the latter to be very inelegant in that the box containing the choices is the same width regardless of the length of the choice strings.
